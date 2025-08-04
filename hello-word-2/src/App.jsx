@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Hello World 2!</h1>
+      <p>Primeiro paragrafo de uma tarefa.</p>
     </>
   )
 }
